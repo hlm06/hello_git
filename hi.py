@@ -8,3 +8,5 @@ print(9*9,676,253,"mvk")
 for i in [1,2,3,4]:
     print(i)
     
+def summer(a,b):
+    return a + b
